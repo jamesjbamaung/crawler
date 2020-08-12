@@ -6,7 +6,7 @@
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Debugging](#debugging)
-
+ 
 ## About <a name = "about"></a>
 
 This is a web scraper to get data from [UFC Stats](http://ufcstats.com/), built using [Scrapy](https://github.com/scrapy/scrapy). Scraped data are organized as follows:
